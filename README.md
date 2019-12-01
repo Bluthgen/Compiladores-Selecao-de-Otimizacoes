@@ -1,2 +1,3 @@
 # Compiladores-Selecao-de-Otimizacoes
  Implementação de um algoritmo genético para a seleção de um bom conjunto de otimizações  a serem aplicadas na compilação de 10 programas selecionados.
+ Utiliza o Test Framework (TF) (https://github.com/guilhermeleobas/tf), modificado para permitir a seleção de programas em específico para compilação e execução, e também para a seleção de conjuntos de otimizações.
